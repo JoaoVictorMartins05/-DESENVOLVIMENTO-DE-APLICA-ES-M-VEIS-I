@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Marciano</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Robo Marciano</string>
+    <string name="second_fragment_label">Robo Marciano</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Voltar">Voltar</string>
+
+    <string name="texto1">Olá eu sou o robô Marciano\n Você pode perguntar qualquer coisa \n Digite sua mensagem abaixo </string>
+    <string name="texto2">Você pode perguntar qualquer coisa</string>
+    <string name="texto3">Digite sua mensagem abaixo</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textoEnviado">Ola Marciano</string>
+    <string name="imageView">Faça sua pergunta</string>
+    <string name="imageView3">Sua resposta</string>
+    <string name="respostaFinal">Resposta:</string>
+</resources>
